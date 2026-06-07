@@ -2,8 +2,6 @@
 
 A genuine, in-browser blockchain you can run, mine, and learn from. No Ethereum, no node, no install, no backend — every hash is real SHA‑256 computed live in the tab. It's built as a **Bitcoin‑style educator**: send tokens, watch them collect in the mempool, mine them into blocks with real proof‑of‑work, and see why confirmed history is hard to rewrite.
 
-**Live file:** `Blockchain Playground.html`
-
 ---
 
 ## What it does
